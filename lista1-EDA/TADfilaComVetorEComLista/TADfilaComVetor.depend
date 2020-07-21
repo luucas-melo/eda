@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1556197986 source:c:\temp\20191\tadfilacomvetor\fila.c
+	"Fila.h"
+
+1556198518 c:\temp\20191\tadfilacomvetor\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1556198518 source:c:\temp\20191\tadfilacomvetor\main.c
+	"Fila.h"
+
+1556203120 source:c:\temp\20191\tadfilacomvetorecomlista\main.c
+	"Fila.h"
+
+1556198518 c:\temp\20191\tadfilacomvetorecomlista\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1556203100 source:c:\temp\20191\tadfilacomvetorecomlista\fila.c
+	"Fila.h"
+
